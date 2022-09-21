@@ -4,9 +4,6 @@ using UnityEngine;
 
 public class TimeController : MonoBehaviour
 {
-
-    // public static float gravity = -100;
-
     public struct RecordedData
     {
         public Vector3 position;
